@@ -71,7 +71,7 @@
   "devDependencies": {
     "@azure/ai-language-text": "1.1.0",
     "@types/mime-types": "2.1.4",
-    "@types/node": "20.14.10",
+    "@types/node": "22.10.6",
     "@types/rss": "0.0.32",
     "concurrently": "9.1.0",
     "dotenv": "16.4.7",
